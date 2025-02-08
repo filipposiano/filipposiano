@@ -16,7 +16,7 @@
 
 ## 📊 I miei progressi su GitHub
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=filipposiano&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siano&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=filipposiano&layout=compact&theme=tokyonight)
 
 ---
 
