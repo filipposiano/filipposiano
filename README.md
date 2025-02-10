@@ -21,7 +21,7 @@
 ---
 
 ## 🌍 Dove trovarmi
-[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https:/filipposiano.github.io)
+[![Website](https://img.shields.io/badge/Website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://filipposiano.github.io)
 
 ---
 
